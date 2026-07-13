@@ -1,0 +1,22 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Jeff",
+    "email": "jeff@gmail.com",
+    "city": "Pala"
+  },
+  {
+    "id": 2,
+    "name": "Aliena",
+    "email": "aliena@gmail.com",
+    "city": "Kottayam"
+  },
+  {
+    "id": 3,
+    "name": "Diya",
+    "email": "diya@gmail.com",
+    "city": "Ettumanoor"
+  }
+]
